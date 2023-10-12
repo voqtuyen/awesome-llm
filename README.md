@@ -7,3 +7,6 @@ A curated list of awesome LLM materials
 - COS 597G: Understanding Large Language Models: https://www.cs.princeton.edu/courses/archive/fall22/cos597G/
 - Databricks: Large Language Models: Foundation Models from the Ground Up: https://www.edx.org/learn/computer-science/databricks-large-language-models-foundation-models-from-the-ground-up
 - Generative AI with Large Language Models: https://www.coursera.org/learn/generative-ai-with-llms
+
+## Blogs & Posts
+- Should you use 𝗢𝗽𝗲𝗻𝗔𝗜 𝗯𝗹𝗮𝗰𝗸-𝗯𝗼𝘅 𝗔𝗣𝗜, or an 𝗼𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲 𝗟𝗟𝗠: https://www.linkedin.com/posts/pau-labarta-bajo-4432074b_machinelearning-mlops-realworldml-activity-7117781263289098240-N2E_
