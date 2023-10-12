@@ -1,4 +1,4 @@
-# awesome-llm
+# Awesome Large Language Model Materials
 A curated list of awesome LLM materials
 
 ## LLM Courses
