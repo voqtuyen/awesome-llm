@@ -10,3 +10,6 @@ A curated list of awesome LLM materials
 
 ## Blogs & Posts
 - Should you use 𝗢𝗽𝗲𝗻𝗔𝗜 𝗯𝗹𝗮𝗰𝗸-𝗯𝗼𝘅 𝗔𝗣𝗜, or an 𝗼𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲 𝗟𝗟𝗠: https://www.linkedin.com/posts/pau-labarta-bajo-4432074b_machinelearning-mlops-realworldml-activity-7117781263289098240-N2E_/
+
+## Tutorials
+- Hands-on LLM: https://github.com/iusztinpaul/hands-on-llms
