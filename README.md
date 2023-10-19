@@ -13,3 +13,7 @@ A curated list of awesome LLM materials
 
 ## Tutorials
 - Hands-on LLM: https://github.com/iusztinpaul/hands-on-llms
+
+## Articles
+### RAG
+- How to optimize your RAG pipeline: https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7120795629471023106-fUCg?utm_source=share&utm_medium=member_desktop
